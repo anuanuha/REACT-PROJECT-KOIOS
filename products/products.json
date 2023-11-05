@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "SHOE",
+      "desc": "good",
+      "review": "goood",
+      "price": "1500",
+      "id": 1
+    },
+    {
+      "name": "mobile",
+      "desc": "tywqerty",
+      "review": "tqwerty",
+      "price": "12345",
+      "id": 2
+    }
+  ]
+}
